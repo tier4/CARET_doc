@@ -3,3 +3,4 @@ nav:
     - Supported tracepoints: supported_tracepoints.md
     - galacticとの差分: diff.md
     - レイテンシの算出方法: how_to_calculate_latency.md
+    - class structure: class_structure.md
